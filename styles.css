@@ -1,0 +1,37 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: blue;
+    background-color: cornflowerblue;
+    padding: 5px;
+}
+
+
+table {
+    background-color: slategray;
+}
+
+th {
+    padding: 5px;
+    color: indigo;
+    margin: 5px;
+    text-align: left;
+    font-weight: bold; 
+    background-color: hotpink; 
+    border-bottom: indianred solid 1px;
+}
+
+td {
+    padding: 5px;
+    background-color: lightslategray;
+}
+
+td.element {
+    font-family: Courier;
+    background-color: royalblue;
+}
+
+
+
